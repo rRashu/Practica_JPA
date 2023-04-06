@@ -12,7 +12,7 @@ import com.latam.alura.tienda.modelo.Producto;
 import com.latam.alura.tienda.utils.JPAUtils;
 
 public class RegistroDeProducto {
-
+//Prueba 
 	public static void main(String[] args) {
 		registrarProducto();
 		EntityManager em = JPAUtils.getEntityManager();
@@ -49,6 +49,3 @@ public class RegistroDeProducto {
 	}
 
 }
-
-
-
