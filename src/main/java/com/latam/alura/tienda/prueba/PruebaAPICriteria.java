@@ -12,6 +12,7 @@ import com.latam.alura.tienda.modelo.Producto;
 import com.latam.alura.tienda.utils.JPAUtils;
 
 public class PruebaAPICriteria {
+	//prueba de inteligidea
 	public static void main(String[] args) {
 		cargarBancoDeDatos();
 		
